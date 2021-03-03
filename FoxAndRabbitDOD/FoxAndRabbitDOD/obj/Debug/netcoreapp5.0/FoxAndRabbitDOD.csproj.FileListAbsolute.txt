@@ -1,0 +1,16 @@
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\bin\Debug\netcoreapp5.0\FoxAndRabbitDOD.exe
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\bin\Debug\netcoreapp5.0\FoxAndRabbitDOD.deps.json
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\bin\Debug\netcoreapp5.0\FoxAndRabbitDOD.runtimeconfig.json
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\bin\Debug\netcoreapp5.0\FoxAndRabbitDOD.runtimeconfig.dev.json
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\bin\Debug\netcoreapp5.0\FoxAndRabbitDOD.dll
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\bin\Debug\netcoreapp5.0\ref\FoxAndRabbitDOD.dll
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\bin\Debug\netcoreapp5.0\FoxAndRabbitDOD.pdb
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\obj\Debug\netcoreapp5.0\FoxAndRabbitDOD.csprojAssemblyReference.cache
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\obj\Debug\netcoreapp5.0\FoxAndRabbitDOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\obj\Debug\netcoreapp5.0\FoxAndRabbitDOD.AssemblyInfoInputs.cache
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\obj\Debug\netcoreapp5.0\FoxAndRabbitDOD.AssemblyInfo.cs
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\obj\Debug\netcoreapp5.0\FoxAndRabbitDOD.csproj.CoreCompileInputs.cache
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\obj\Debug\netcoreapp5.0\FoxAndRabbitDOD.dll
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\obj\Debug\netcoreapp5.0\ref\FoxAndRabbitDOD.dll
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\obj\Debug\netcoreapp5.0\FoxAndRabbitDOD.pdb
+C:\Users\Kaitlyn\Videos\Learning Code\FreshLinux\Projects\Csharp\FoxAndRabbitDOD\FoxAndRabbitDOD\obj\Debug\netcoreapp5.0\FoxAndRabbitDOD.genruntimeconfig.cache
